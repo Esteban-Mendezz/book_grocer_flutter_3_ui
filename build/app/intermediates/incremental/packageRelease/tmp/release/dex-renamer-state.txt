@@ -1,0 +1,4 @@
+#Sun May 19 21:30:51 UTC 2024
+base.0=/home/user/book_grocer_flutter_3_ui/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
